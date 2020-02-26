@@ -1,0 +1,29 @@
+#table {
+  width:200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  
+}
+
+.tile {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #222;
+  text-align: center;
+  background: darkgray;
+  color: #000;
+  cursor: pointer;
+}
+
+.blank {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+
+#newGame {
+  display: block;
+  margin: 0 auto;
+}
+
